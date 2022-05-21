@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MockingBird</string>
+    <string name="start_record">start record!</string>
+</resources>
